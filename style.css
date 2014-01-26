@@ -1,0 +1,74 @@
+.container {
+	background-color: grey;
+	width: 1024px;
+	height:1024px;
+	margin: 0 auto;
+}
+.header {
+	background-color: red;
+	text-align: center;
+	height: 60px;
+	border-width: 10px;
+	border-color: red;
+	font-family: 'Open Sans';
+	font-size: 44px;
+	font-style: bold;
+}
+.navigation {
+	background-color: white;
+	width: 1024px;
+	height: 18px;
+}
+.about {
+	background-color: blue;
+	float: left;
+	width: 170px;
+	text-align: center;
+	font-family: 'Open Sans'
+}
+.professional {
+	background-color: purple;
+	float: left;
+	width: 170px;
+	text-align: center;
+	font-family: 'Open Sans'
+}
+.hobby {
+	background-color: yellow;
+	float: left;
+	width: 170px;
+	text-align: center;
+	font-family: 'Open Sans'
+}
+.blog {
+	background-color: orange;
+	float: left;
+	width: 170px;
+	text-align: center;
+	font-family: 'Open Sans'
+}
+.photos {
+	background-color: green;
+	float: left;
+	width: 170px;
+	text-align: center;
+	font-family: 'Open Sans'
+}
+.contact {
+	background-color: white;
+	float: left;
+	width: 170px;
+	text-align: center;
+	font-family: 'Open Sans'
+}
+.footer {
+	background-color: black;
+	width: 1024px;
+	height: 50px;
+	text-align: center;
+}
+.content {
+	height: 900px;
+	width: 1024px;
+	font-family: 'Open Sans'
+}
