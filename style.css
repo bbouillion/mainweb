@@ -25,6 +25,7 @@
 	width: 170px;
 	text-align: center;
 	font-family: 'Open Sans'
+	font-style: bold;
 }
 .professional {
 	background-color: purple;
@@ -32,6 +33,7 @@
 	width: 170px;
 	text-align: center;
 	font-family: 'Open Sans'
+	font-style: bold;
 }
 .hobby {
 	background-color: yellow;
@@ -39,6 +41,7 @@
 	width: 170px;
 	text-align: center;
 	font-family: 'Open Sans'
+	font-style: bold;
 }
 .blog {
 	background-color: orange;
@@ -46,6 +49,7 @@
 	width: 170px;
 	text-align: center;
 	font-family: 'Open Sans'
+	font-style: bold;
 }
 .photos {
 	background-color: green;
@@ -53,6 +57,7 @@
 	width: 170px;
 	text-align: center;
 	font-family: 'Open Sans'
+	font-style: bold;
 }
 .contact {
 	background-color: white;
@@ -60,12 +65,14 @@
 	width: 170px;
 	text-align: center;
 	font-family: 'Open Sans'
+	font-style: bold;
 }
 .footer {
 	background-color: black;
 	width: 1024px;
 	height: 50px;
 	text-align: center;
+	font-style: bold;
 }
 .content {
 	height: 900px;
