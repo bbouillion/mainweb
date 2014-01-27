@@ -10,7 +10,7 @@
 	height: 60px;
 	border-width: 10px;
 	border-color: red;
-	font-family: 'Open Sans';
+	font-family: Times;
 	font-size: 44px;
 	font-style: bold;
 }
@@ -24,7 +24,7 @@
 	float: left;
 	width: 170px;
 	text-align: center;
-	font-family: 'Open Sans'
+	font-family: Times;
 	font-style: bold;
 }
 .professional {
@@ -32,7 +32,7 @@
 	float: left;
 	width: 170px;
 	text-align: center;
-	font-family: 'Open Sans'
+	font-family: Times;
 	font-style: bold;
 }
 .hobby {
@@ -40,7 +40,7 @@
 	float: left;
 	width: 170px;
 	text-align: center;
-	font-family: 'Open Sans'
+	font-family: Times;
 	font-style: bold;
 }
 .blog {
@@ -48,7 +48,7 @@
 	float: left;
 	width: 170px;
 	text-align: center;
-	font-family: 'Open Sans'
+	font-family: Times;
 	font-style: bold;
 }
 .photos {
@@ -56,7 +56,7 @@
 	float: left;
 	width: 170px;
 	text-align: center;
-	font-family: 'Open Sans'
+	font-family: Times;
 	font-style: bold;
 }
 .contact {
@@ -64,7 +64,7 @@
 	float: left;
 	width: 170px;
 	text-align: center;
-	font-family: 'Open Sans'
+	font-family: Times;
 	font-style: bold;
 }
 .footer {
@@ -77,5 +77,5 @@
 .content {
 	height: 900px;
 	width: 1024px;
-	font-family: 'Open Sans'
+	font-family: Times;
 }
