@@ -3,6 +3,9 @@
 	width: 1024px;
 	height:1024px;
 	margin: 0 auto;
+	font-family: helvetica;
+	font-style: bold;
+	font-style: normal;
 }
 .header {
 	background-color: red;
@@ -10,9 +13,9 @@
 	height: 60px;
 	border-width: 10px;
 	border-color: red;
-	font-family: Times;
 	font-size: 44px;
 	font-style: bold;
+	font-family: helvetica;
 }
 .navigation {
 	background-color: white;
@@ -24,31 +27,30 @@
 	float: left;
 	width: 170px;
 	text-align: center;
-	font-family: Times;
 	font-style: bold;
+	font-family: helvetica;
 }
 .professional {
 	background-color: purple;
 	float: left;
 	width: 170px;
 	text-align: center;
-	font-family: Times;
 	font-style: bold;
+	font-family: helvetica;
 }
 .hobby {
 	background-color: yellow;
 	float: left;
 	width: 170px;
 	text-align: center;
-	font-family: Times;
 	font-style: bold;
+	font-family: helvetica;
 }
 .blog {
 	background-color: orange;
 	float: left;
 	width: 170px;
 	text-align: center;
-	font-family: Times;
 	font-style: bold;
 }
 .photos {
@@ -56,7 +58,6 @@
 	float: left;
 	width: 170px;
 	text-align: center;
-	font-family: Times;
 	font-style: bold;
 }
 .contact {
@@ -64,7 +65,6 @@
 	float: left;
 	width: 170px;
 	text-align: center;
-	font-family: Times;
 	font-style: bold;
 }
 .footer {
@@ -77,5 +77,4 @@
 .content {
 	height: 900px;
 	width: 1024px;
-	font-family: Times;
 }
